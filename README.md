@@ -15,3 +15,14 @@ var {Button} = require('uikit');
 ```
 
 ![button](https://raw.githubusercontent.com/hufeng/uikit/master/images/button.png)
+
+2. BreadCrumb
+
+```js
+var {BreadCrumb} = require('uikit');
+
+<BreadCrumb devider={'>'} data={['test1', 'test2'], style={{}}}/>
+```
+
+
+![breadcrumb](https://raw.githubusercontent.com/hufeng/uikit/master/images/breadcrumb.png)
