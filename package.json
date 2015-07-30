@@ -1,0 +1,23 @@
+{
+  "name": "uikit",
+  "version": "1.0.0",
+  "description": "react-native's uikit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hufeng/uikit.git"
+  },
+  "keywords": [
+    "react-native",
+    "uikit"
+  ],
+  "author": "hufeng",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/hufeng/uikit/issues"
+  },
+  "homepage": "https://github.com/hufeng/uikit#readme"
+}
