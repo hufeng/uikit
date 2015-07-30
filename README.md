@@ -14,4 +14,4 @@ react-native's uikit
 </Button>
 ```
 
-![button](https://raw.githubusercontent.com/hufeng/uikit/master/demo/images/button.png)
+![button](https://raw.githubusercontent.com/hufeng/uikit/master/images/button.png)
