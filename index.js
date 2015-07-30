@@ -2,6 +2,6 @@
  * expose
  */
 module.exports = {
-  Button: require('./button'),
-  BreadCrumb: require('./breadcrumb')
+  Button: require('./src/button'),
+  BreadCrumb: require('./src/breadcrumb')
 };
