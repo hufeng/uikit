@@ -4,7 +4,7 @@ react-native's uikit
 1. Button
 
 ```js
-  var {Button} = require('uikit');
+var {Button} = require('uikit');
 
 <Button
   onPress={() => console.log('pressed.');}
