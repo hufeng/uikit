@@ -1,7 +1,7 @@
 # uikit
 react-native's uikit
 
-1. Button
+### Button
 
 ```js
 var {Button} = require('uikit');
@@ -16,7 +16,7 @@ var {Button} = require('uikit');
 
 ![button](https://raw.githubusercontent.com/hufeng/uikit/master/images/button.png)
 
-2. BreadCrumb
+### BreadCrumb
 
 ```js
 var {BreadCrumb} = require('uikit');
